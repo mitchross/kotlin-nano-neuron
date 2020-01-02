@@ -1,10 +1,13 @@
 # NanoNeuron
 
-> 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn".
+> 7 simple _Kotlin_ functions that will give you a feeling of how machines can actually "learn".
+>
+> Kotlin variant of https://github.com/trekhleb/nano-neuron
 
-_In other languages: [Русский](README.ru-RU.md)_
 
 ## TL;DR
+
+>Special Note - All content below is in reference to [@trekhleb's](https://github.com/trekhleb/) original work. The KotlinNanoNeuron.kt file represents the work of the NanoNeuron.js in Kotlin code.
 
 [NanoNeuron](https://github.com/trekhleb/nano-neuron) is an _over-simplified_ version of the Neuron concept from Neural Networks. NanoNeuron is trained to convert temperature values from Celsius to Fahrenheit.
 

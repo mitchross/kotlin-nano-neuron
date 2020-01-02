@@ -8,7 +8,7 @@
 ## TL;DR
 >Run KotlinNanoNeuron.kt to get started.
 
->Special Note - All content below is in reference to [@trekhleb's](https://github.com/trekhleb/) original work. The KotlinNanoNeuron.kt file represents the work of the NanoNeuron.js in Kotlin code.
+>Special Note - All content below is [@trekhleb's](https://github.com/trekhleb/) original work. The KotlinNanoNeuron.kt file represents the work of the NanoNeuron.js convertedto Kotlin code. The original project was left intact for cross-language reference. 
 
 [NanoNeuron](https://github.com/trekhleb/nano-neuron) is an _over-simplified_ version of the Neuron concept from Neural Networks. NanoNeuron is trained to convert temperature values from Celsius to Fahrenheit.
 

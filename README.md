@@ -6,6 +6,7 @@
 
 
 ## TL;DR
+>Run KotlinNanoNeuron.kt to get started.
 
 >Special Note - All content below is in reference to [@trekhleb's](https://github.com/trekhleb/) original work. The KotlinNanoNeuron.kt file represents the work of the NanoNeuron.js in Kotlin code.
 
